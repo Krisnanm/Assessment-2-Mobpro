@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Assessment Mobro 2</string>
+    <string name="app_name">GudangIn</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="raka">Rak A</string>
+    <string name="rakb">Rak B</string>
+    <string name="rakc">Rak C</string>
+    <string name="rakd">Rak D</string>
+    <string name="nama">Nama Barang</string>
+    <string name="kode">Kode Barang</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="invalid">data tidak boleh kosong</string>
+    <string name="opsi_lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus Barang</string>
+    <string name="edit_barang">Ubah Barang</string>
+    <string name="pesan_hapus">Hapus Barang ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
 </resources>
